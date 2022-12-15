@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
-### 📫 How to reach me ...!
+### 📫 How to reach me:
 
 <p>
   <a href="https://www.linkedin.com/in/john-denver-bidong-392067199/" target="_blank">
