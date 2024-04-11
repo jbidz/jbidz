@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm John Denver</h1>
-<h2 align="center">Frontend Engineer</h2>
+<h2 align="center">Web Developerr</h2>
 
 - 👀 **I’m interested in Minimalistic Modern Web Design**
 - 🌱 **I’m currently mastering React State Management**
